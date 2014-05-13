@@ -1,0 +1,4 @@
+var avgHeight = 145;
+var numEruptions = 4;
+"\"Old Faithful\" at Yellowstone National Park"\n"Average eruption height today: "+ avgHeight \n "Number of eruptions: "+numEruptions
+
